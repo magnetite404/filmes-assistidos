@@ -1,0 +1,21 @@
+<mat-list *ngIf="filme; else semRegistro">
+  <mat-list-item> Título: {{filme.titulo}} </mat-list-item>
+  <mat-list-item> Quando foi assistido : {{filme.dtLancamento | date: 'dd/MM/yyyy' }} </mat-list-item>
+  <mat-list-item> Gênero: {{filme.genero}} </mat-list-item>
+  <mat-list-item class="quebrar-linha"> Descrição: {{filme.descricao}} </mat-list-item>
+  <mat-list-item> <span>Nota do IMDb:<a class="notaCor" [href]="filme.urlIMDb" target="_blank"> {{filme.nota}}</a> </span></mat-list-item>
+  <img mat-card-image [src]="filme.urlFoto || semFoto" >
+</mat-list>
+
+<div >
+  <mat-card *ngIf="filme" class="btn-bottom">
+    <mat-card-actions>
+      <button color="accent" mat-raised-button (click)="editar()">Editar</button>
+      <button color="warn" mat-raised-button (click)="excluir()">Excluir</button>
+    </mat-card-actions>
+  </mat-card>
+</div>
+
+<ng-template #semRegistro>
+  <h1 class="full-width main-div">Nenhum registro encontrado!</h1>
+</ng-template>

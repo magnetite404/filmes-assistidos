@@ -1,0 +1,16 @@
+.mat-card-image {
+  width: 182px;
+  height: 268px;
+  margin: auto;
+  display: block;
+}
+
+.btn-bottom {
+  text-align: center;
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.notaCor {
+  color: #E2B616;
+}

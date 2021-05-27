@@ -1,0 +1,204 @@
+{
+  "filmes": [
+    {
+      "id": 5,
+      "titulo": "Coringa",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-10-03T03:00:00.000Z",
+      "descricao": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+      "nota": 8.7,
+      "urlIMDb": "https://www.imdb.com/title/tt7286456/",
+      "genero": "Drama"
+    },
+    {
+      "titulo": "Vingadores: Ultimato",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-04-25T03:00:00.000Z",
+      "descricao": "After the devastating events of Vingadores: Guerra Infinita (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "nota": 8.5,
+      "urlIMDb": "https://www.imdb.com/title/tt4154796/",
+      "genero": "Fantasia",
+      "id": 6
+    },
+    {
+      "titulo": "Sinais",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNDUwMDUyMDAyNF5BMl5BanBnXkFtZTYwMDQ3NzM3._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2006-07-12T03:00:00.000Z",
+      "descricao": "A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.",
+      "nota": 6.7,
+      "urlIMDb": "https://www.imdb.com/title/tt0286106/",
+      "genero": "Suspense",
+      "id": 12
+    },
+    {
+      "titulo": "2001: Uma Odisséia no Espaço",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-05-11T03:00:00.000Z",
+      "descricao": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer HAL- 9000.",
+      "nota": 8.3,
+      "urlIMDb": "https://www.imdb.com/title/tt0062622/?ref_=nv_sr_srsg_0",
+      "genero": "Ficção Cientifica",
+      "id": 13
+    },
+    {
+      "titulo": "O Senhor dos Anéis: O Retorno do Rei ",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2003-01-01T02:00:00.000Z",
+      "descricao": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "nota": 8.9,
+      "urlIMDb": "https://www.imdb.com/title/tt0167260/?ref_=tt_sims_tt",
+      "genero": "Fantasia",
+      "id": 14
+    },
+    {
+      "titulo": "500 Dias com ela",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTk5MjM4OTU1OV5BMl5BanBnXkFtZTcwODkzNDIzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2009-01-01T02:00:00.000Z",
+      "descricao": "An offbeat romantic comedy about a woman who doesn't believe true love exists, and the young man who falls for her.",
+      "nota": 7.7,
+      "urlIMDb": "https://www.imdb.com/title/tt1022603/?ref_=nv_sr_srsg_0",
+      "genero": "Romance",
+      "id": 15
+    },
+    {
+      "titulo": "Corra!",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2017-07-05T03:00:00.000Z",
+      "descricao": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+      "nota": 7.7,
+      "urlIMDb": "https://www.imdb.com/title/tt5052448/?ref_=fn_al_tt_1",
+      "genero": "Terror",
+      "id": 16
+    },
+    {
+      "titulo": "Whiplash: Em Busca da Perfeição",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2020-01-10T03:00:00.000Z",
+      "descricao": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's",
+      "nota": 8.5,
+      "urlIMDb": "https://www.imdb.com/title/tt2582802/?ref_=fn_al_tt_1",
+      "genero": "Drama",
+      "id": 17
+    },
+    {
+      "titulo": "Lady Bird: A Hora de Voar",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BODhkZGE0NDQtZDc0Zi00YmQ4LWJiNmUtYTY1OGM1ODRmNGVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2018-03-08T03:00:00.000Z",
+      "descricao": "In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.",
+      "nota": 7.4,
+      "urlIMDb": "https://www.imdb.com/title/tt4925292/?ref_=nv_sr_srsg_0",
+      "genero": "Comédia",
+      "id": 18
+    },
+    {
+      "titulo": "Oldboy",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-11-14T03:00:00.000Z",
+      "descricao": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+      "nota": 8.4,
+      "urlIMDb": "https://www.imdb.com/title/tt0364569/?ref_=nv_sr_srsg_0",
+      "genero": "Ação",
+      "id": 19
+    },
+    {
+      "titulo": "A Ghost Story",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMzcyNTc1ODQzMF5BMl5BanBnXkFtZTgwNTgzMzY4MTI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-02-06T02:00:00.000Z",
+      "descricao": "In this singular exploration of legacy, love, loss, and the enormity of existence, a recently deceased, white-sheeted ghost returns to his suburban home to try to reconnect with his bereft wife.",
+      "nota": 6.9,
+      "urlIMDb": "https://www.imdb.com/title/tt6265828/?ref_=nv_sr_srsg_0",
+      "genero": "Fantasia",
+      "id": 20
+    },
+    {
+      "titulo": "Kick-Ass: Quebrando Tudo",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTMzNzEzMDYxM15BMl5BanBnXkFtZTcwMTc0NTMxMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2014-06-11T03:00:00.000Z",
+      "descricao": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.",
+      "nota": 7.6,
+      "urlIMDb": "https://www.imdb.com/title/tt1250777/?ref_=fn_al_tt_1",
+      "genero": "Ação",
+      "id": 21
+    },
+    {
+      "titulo": "Brilho Eterno de uma Mente sem Lembranças",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2018-01-09T02:00:00.000Z",
+      "descricao": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+      "nota": 8.3,
+      "urlIMDb": "https://www.imdb.com/title/tt0338013/?ref_=nv_sr_srsg_0",
+      "genero": "Romance",
+      "id": 22
+    },
+    {
+      "titulo": "Homem-Aranha",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2004-06-03T03:00:00.000Z",
+      "descricao": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.",
+      "nota": 7.3,
+      "urlIMDb": "https://www.imdb.com/title/tt0145487/?ref_=nv_sr_srsg_8",
+      "genero": "Fantasia",
+      "id": 23
+    },
+    {
+      "titulo": "Na Natureza Selvagem",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2018-06-16T03:00:00.000Z",
+      "descricao": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+      "nota": 8.1,
+      "urlIMDb": "https://www.imdb.com/title/tt0758758/?ref_=fn_al_tt_1",
+      "genero": "Aventura",
+      "id": 24
+    },
+    {
+      "titulo": "Bastardos Inglórios",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2017-06-16T03:00:00.000Z",
+      "descricao": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+      "nota": 8.3,
+      "urlIMDb": "https://www.imdb.com/title/tt0361748/?ref_=nv_sr_srsg_0",
+      "genero": "Drama",
+      "id": 25
+    },
+    {
+      "titulo": "Jojo Rabbit",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-08-16T03:00:00.000Z",
+      "descricao": "A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.",
+      "nota": 7.9,
+      "urlIMDb": "https://www.imdb.com/title/tt2584384/?ref_=fn_al_tt_1",
+      "genero": "Comédia",
+      "id": 26
+    },
+    {
+      "titulo": "Psicose",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2016-04-11T03:00:00.000Z",
+      "descricao": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+      "nota": 8.5,
+      "urlIMDb": "https://www.imdb.com/title/tt0054215/?ref_=fn_al_tt_1",
+      "genero": "Suspense",
+      "id": 27
+    },
+    {
+      "titulo": "O Rei Leão",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2003-05-14T03:00:00.000Z",
+      "descricao": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "nota": 8.5,
+      "urlIMDb": "https://www.imdb.com/title/tt0110357/?ref_=nv_sr_srsg_0",
+      "genero": "Fantasia",
+      "id": 28
+    },
+    {
+      "titulo": "Léon: O Profissional",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2017-07-06T03:00:00.000Z",
+      "descricao": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+      "nota": 8.5,
+      "urlIMDb": "https://www.imdb.com/title/tt0110413/?ref_=nv_sr_srsg_0",
+      "genero": "Ação",
+      "id": 29
+    }
+  ]
+}
